@@ -2,6 +2,6 @@
 
 This is my failed attempt at using a genetic algorithm to lunch a satellite into orbital motion.
 
-Visit my website for more details 
+Visit the blog post on my website for more details:
 
-[Asaf's Laboratory](https://asafslaboratory.com/)
+[Asaf's Laboratory](https://asafslaboratory.com/?p=194)
